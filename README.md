@@ -13,7 +13,7 @@ Prepare the lists for each linear equations and assign array in np.array().
 Using the np.linagl.matrix_rank(A),we can find the solutions.
 ### Step 4: 
 End the program.
-### Step 6:
+### Step 5:
 WOW! You got the output. Now,it's time to celebrate. 
 ## Program:
 
